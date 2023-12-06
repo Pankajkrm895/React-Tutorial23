@@ -1,0 +1,52 @@
+#search {
+    height: 390px;
+    background-image: url("https://i.ibb.co/NVQxPB6/food-Wallpaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+        /* background-size:100% 400px */
+    }
+ #logo{
+     height: 144px;
+     width: 150px;
+     background-color: white;
+     border-radius: 50%;
+     margin-top: 2%;
+     margin-left: 43%;
+     position: absolute;
+ }   
+  #logo > span {
+    margin-top: 30%;
+    margin-left: 28%;
+    position: absolute;
+    font-size: 45px;
+    font-family:Arial, Helvetica, sans-serif;
+ }
+ #heading{
+    position: absolute;
+    margin-top: 16%;
+    margin-left: 29%;
+    font-size: 55px;
+    color: white;
+ }
+#dropdown{
+    position: absolute;
+   margin-top: 23%;
+   margin-left: 27%;
+   width:52%;
+   height: 55px;
+ } 
+ select{
+    height: 38px;
+    width: 45%;
+    font-size:20px ;
+ }
+ .resSelect{
+   width: 60%;
+ }
+
+/* 
+ 
+
+ .restSelect {
+     width: 55%;
+ } */
